@@ -1,12 +1,8 @@
 # 🙉 Woro
 
-**`(Lua Developer / Full-Stack Developer)`**
+**`(Full-Stack Developer / Lua Developer)`**
 
-Hey there!
-
-I am a Lua developer with over 5 years of experience, primarily focused on developing game servers on the FiveM platform. For the past 3 years, I’ve been working as a Full-Stack Developer; prior to that, my expertise centered on UI design without backend integration.
-
-I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the way” 😉). Currently, I’m actively working on personal projects, listed below, and I continue to engage with the FiveM community as a freelance developer.
+Hey! I'm Maciej, but everyone calls me Woro. I'm a full-stack developer with 6 years of experience building modern web applications. My greatest passion lies in security systems – from vulnerability analysis to implementing advanced protection mechanisms. I'm also deeply passionate about Unix-like operating systems, especially Linux (yes, "I use Arch, by the way"). I combine deep technical knowledge with a practical approach to problem-solving, creating solutions that are not only functional but also secure and efficient.
 
 #
 
