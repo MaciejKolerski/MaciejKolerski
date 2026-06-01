@@ -1,5 +1,3 @@
-# Maciej Kolerski
-
 **Full-Stack Developer** — SaaS · Real-Time Systems · Security
 
 I build software products end to end: from concept and architecture to production and maintenance. Over 4+ years I've designed and shipped a SaaS platform, microservice-based systems, and real-time solutions serving 1,000+ concurrent users — with a consistent focus on performance, security, and reliability.
@@ -10,12 +8,12 @@ I specialize in backend development (Node.js / TypeScript) and system architectu
 
 ### What I work with
 
-**Languages** — TypeScript, JavaScript, Rust, PHP, Python, C#, Lua
-**Backend** — Node.js, Nest.js, Express.js, microservices, REST
-**Frontend** — React, Vue, Next.js, TailwindCSS
-**Databases** — PostgreSQL, MySQL, MariaDB, SQLite
-**DevOps** — Docker, Kubernetes, CI/CD, Git, MinIO
-**Focus areas** — System architecture, security, full-stack development
+**Languages** - TypeScript, JavaScript, Rust, PHP, Python, C#, Lua<br>
+**Backend** — Node.js, Nest.js, Express.js, microservices, REST<br>
+**Frontend** — React, Vue, Next.js, Astro, TailwindCSS<br>
+**Databases** — PostgreSQL, MySQL, MariaDB, SQLite<br>
+**DevOps** — Docker, Kubernetes, CI/CD, Git, Coolify, MinIO<br>
+**Focus areas** — System architecture, security, full-stack development<br>
 
 ---
 
