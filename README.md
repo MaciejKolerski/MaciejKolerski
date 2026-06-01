@@ -1,28 +1,48 @@
-# 🙉 Woro
+# Maciej Kolerski
 
-**`(Full-Stack Developer / Lua Developer)`**
+**Full-Stack Developer** — SaaS · Real-Time Systems · Security
 
-Hey! I'm Maciej, but everyone calls me Woro. I'm a full-stack developer with 6 years of experience building modern web applications. My greatest passion lies in security systems – from vulnerability analysis to implementing advanced protection mechanisms. I'm also deeply passionate about Unix-like operating systems, especially Linux (yes, "I use Arch, by the way"). I combine deep technical knowledge with a practical approach to problem-solving, creating solutions that are not only functional but also secure and efficient.
+I build software products end to end: from concept and architecture to production and maintenance. Over 4+ years I've designed and shipped a SaaS platform, microservice-based systems, and real-time solutions serving 1,000+ concurrent users — with a consistent focus on performance, security, and reliability.
 
-#
+I specialize in backend development (Node.js / TypeScript) and system architecture, and I'm equally at home building modern interfaces in React and Vue. As a co-founder of several technical projects, I've owned the full product lifecycle — from gathering requirements through development to deployment and customer support.
 
-### 🖥 Projects
+---
 
-- ~~NNHouse~~ (2019 - 2021)
-- ~~GelatoRP~~ (2021 - 2022)
-- ~~AkiraRP~~ (2022 - 2022)
-- [~~WavesRP~~](https://discord.com/invite/wavesroleplay) (2023 - 2024)
-- [EpicEye](https://epiceye.me/) (2023 - Now)
-- [Z-Scripts](https://z-scripts.tebex.io/) (2024 - Now)
-- [BeLaunch](https://belaunch.net/) (2024 - Now)
+### What I work with
 
-#
+**Languages** — TypeScript, JavaScript, Rust, PHP, Python, C#, Lua
+**Backend** — Node.js, Nest.js, Express.js, microservices, REST
+**Frontend** — React, Vue, Next.js, TailwindCSS
+**Databases** — PostgreSQL, MySQL, MariaDB, SQLite
+**DevOps** — Docker, Kubernetes, CI/CD, Git, MinIO
+**Focus areas** — System architecture, security, full-stack development
 
-### 🛠️ I was working on 
+---
 
-- [77 RolePlay](https://discord.gg/77roleplay)
-- [Waves RolePlay](https://discord.com/invite/wavesroleplay)
-- [Hype RolePlay](https://hyperp.pl/)
-- [Wait RolePlay](https://discord.com/invite/waitrp)
-- [Haze RolePlay](https://hazerp.pl/)
-- [FiveCity](https://discord.gg/5city)
+### Selected projects
+
+**[Simplevoice](https://simplevoice.app)** — Cross-platform desktop app for voice dictation (speech-to-text), running fully offline. Local transcription with Whisper / Parakeet models and GPU acceleration, global hotkeys, and auto-paste into the active app. Zero telemetry.
+*Tauri · Rust · React · TypeScript · Whisper.cpp · SQLite*
+
+**[ReTerm](https://reterm.app/)** — Cross-platform RDP client with multi-tab support for multiple simultaneous connections and large file transfers between machines.
+*Tauri · Rust · React · Vite · IronRDP*
+
+**[CFX-Finder](https://github.com/MaciejKolerski/CFX-Finder)** — Web app for searching and browsing detailed server information (owner, player count, IP address).
+*Vue · TypeScript · TailwindCSS · shadcn/ui*
+
+---
+
+### Experience highlights
+
+- **Co-Founder & Full-Stack Developer** — led a SaaS platform for e-commerce automation; designed the microservice architecture and led the dev team.
+- **Founder & Full-Stack Developer** — running my own studio delivering custom software solutions, owning the full product cycle.
+- **Security Developer** — designed and maintained anti-cheat systems protecting real-time platforms in production on leading Polish servers.
+- **Lead Developer** — led a 3–5 person team building a real-time platform with 1,000+ concurrent users.
+
+---
+
+### Get in touch
+
+- Email — woro@tanieddosy.pl
+- LinkedIn — [linkedin.com/in/worek](https://linkedin.com/in/worek)
+- Web — [tanieddosy.pl](https://tanieddosy.pl)
