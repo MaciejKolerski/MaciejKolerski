@@ -8,7 +8,11 @@ Full-stack developer building web, desktop, and mobile products.
 
 A mobile skincare app for scanning cosmetics, understanding ingredients, tracking visible skin signals, and planning daily routines with personalized guidance. Currently in early development and beta testing.
 
-### [Simplevoice](https://simplevoice.app/)
+### [SimpleBench](https://simplebench.app/)
+
+Open-source cross platform ADE with no account or telemetry.
+
+### [SimpleVoice](https://simplevoice.app/)
 
 A privacy-first, open-source desktop app that turns speech into text in any application. It works offline on macOS, Windows, and Linux, with no account or telemetry.
 
