@@ -10,7 +10,7 @@ An open-source desktop workspace for terminal-driven development on macOS, Windo
 
 I'm building the desktop app and its ecosystem: MCP integrations, a TypeScript plugin SDK, developer tooling, and documentation. Current work also includes Lomi Remote and companion mobile clients for remote terminal access.
 
-[Source code](https://github.com/lomi-dev/lomi) · [Documentation](https://docs.lomi.dev/)
+[Source code](https://github.com/lomi-dev/lomi) | [Documentation](https://docs.lomi.dev/)
 
 ## Projects
 
