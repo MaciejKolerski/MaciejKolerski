@@ -2,15 +2,23 @@
 
 Full-stack developer building web, desktop, and mobile products.
 
+## Currently building
+
+### [Lomi](https://lomi.dev/)
+
+An open-source desktop workspace for terminal-driven development on macOS, Windows, and Linux. It brings native terminals, a code editor, browser previews, Git, and AI coding agents into one app, with flexible tabs and split layouts.
+
+I'm building the desktop app and its ecosystem: MCP integrations, a TypeScript plugin SDK, developer tooling, and documentation. Current work also includes Lomi Remote and companion mobile clients for remote terminal access.
+
+**Stack:** Rust · Tauri 2 · React · TypeScript · Node.js · Expo / React Native · Astro
+
+[Source code](https://github.com/lomi-dev/lomi) · [Documentation](https://docs.lomi.dev/)
+
 ## Projects
 
 ### [Yalda](https://yalda.app/)
 
 A mobile skincare app for scanning cosmetics, understanding ingredients, tracking visible skin signals, and planning daily routines with personalized guidance. Currently in early development and beta testing.
-
-### [SimpleBench](https://simplebench.app/)
-
-Open-source cross platform ADE with no account or telemetry.
 
 ### [SimpleVoice](https://simplevoice.app/)
 
